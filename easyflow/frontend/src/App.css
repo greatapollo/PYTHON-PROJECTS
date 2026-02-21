@@ -1,0 +1,16 @@
+/* Product cards hover effect */
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+/* Input focus effect */
+input:focus, select:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* Buttons hover */
+button:hover {
+  opacity: 0.9;
+}
